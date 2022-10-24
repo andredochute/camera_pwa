@@ -1,0 +1,15 @@
+{
+  "name": "camera_pwa",
+  "version": "1.0.0",
+  "description": "PWA camera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "André",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
